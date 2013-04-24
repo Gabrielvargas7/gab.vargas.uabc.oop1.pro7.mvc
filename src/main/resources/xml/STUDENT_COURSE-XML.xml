@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:studentCourseJaxbHelper xmlns:ns2="gab.vargas.uabc.oop1.pro7.mvc.domain.jaxbhelper">
+    <studentCourseList>
+        <courseId>111</courseId>
+        <studentId>1</studentId>
+    </studentCourseList>
+    <studentCourseList>
+        <courseId>222</courseId>
+        <studentId>1</studentId>
+    </studentCourseList>
+    <studentCourseList>
+        <courseId>222</courseId>
+        <studentId>2</studentId>
+    </studentCourseList>
+    <studentCourseList>
+        <courseId>666</courseId>
+        <studentId>1000</studentId>
+    </studentCourseList>
+</ns2:studentCourseJaxbHelper>

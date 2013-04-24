@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:courseJaxbHelper xmlns:ns2="gab.vargas.uabc.oop1.pro7.mvc.domain.jaxbhelper">
+    <courseList>
+        <courseCode>MATH111</courseCode>
+        <courseId>111</courseId>
+        <courseMaxStudentsNumber>20</courseMaxStudentsNumber>
+        <courseName>Math 111</courseName>
+        <courseNumberUnits>3</courseNumberUnits>
+        <coursePrice>100.0</coursePrice>
+    </courseList>
+    <courseList>
+        <courseCode>JAVA222</courseCode>
+        <courseId>222</courseId>
+        <courseMaxStudentsNumber>25</courseMaxStudentsNumber>
+        <courseName>Java 222</courseName>
+        <courseNumberUnits>5</courseNumberUnits>
+        <coursePrice>150.0</coursePrice>
+    </courseList>
+    <courseList>
+        <courseCode>HIS666</courseCode>
+        <courseId>666</courseId>
+        <courseMaxStudentsNumber>0</courseMaxStudentsNumber>
+        <courseName>HIS</courseName>
+        <courseNumberUnits>25</courseNumberUnits>
+        <coursePrice>100.0</coursePrice>
+    </courseList>
+</ns2:courseJaxbHelper>

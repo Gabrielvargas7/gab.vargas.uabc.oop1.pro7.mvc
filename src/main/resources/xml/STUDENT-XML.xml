@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:studentJaxbHelper xmlns:ns2="gab.vargas.uabc.oop1.pro7.mvc.domain.jaxbhelper">
+    <studentList>
+        <address>Clinton St</address>
+        <addressCity>San Diego</addressCity>
+        <addressCountry>USA</addressCountry>
+        <addressState>CA</addressState>
+        <addressZipCode>98635</addressZipCode>
+        <createdDate>2012-11-01T19:02:54.403-07:00</createdDate>
+        <email>john@gmail.com</email>
+        <firstName>John</firstName>
+        <lastName>Kams</lastName>
+        <phoneHome>251-968-7752</phoneHome>
+        <phoneMobile>251-556-6653</phoneMobile>
+        <status>enable</status>
+        <studentId>2</studentId>
+    </studentList>
+    <studentList>
+        <address>121 dwe</address>
+        <addressCity>Indio</addressCity>
+        <addressCountry>USA</addressCountry>
+        <addressState>Ca</addressState>
+        <addressZipCode>95555</addressZipCode>
+        <createdDate>2012-11-01T19:15:42.827-07:00</createdDate>
+        <email>FFF@gg.com</email>
+        <firstName>GGG</firstName>
+        <lastName>VVV</lastName>
+        <phoneHome>510 555 55</phoneHome>
+        <phoneMobile>555 555 555</phoneMobile>
+        <status>enable</status>
+        <studentId>1000</studentId>
+    </studentList>
+</ns2:studentJaxbHelper>
